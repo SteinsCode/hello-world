@@ -1,2 +1,3 @@
 # hello-world
-Well met, cyber adventurer!
+
+// here to learn how to speak to computers
